@@ -48,7 +48,7 @@ for i in range(NUMBER_OBSTACLES):
     list_briques_rect.append(obstacle.rect)
 
 # Son
-son = pygame.mixer.Sound("songs/Game.wav")
+# son = pygame.mixer.Sound("songs/Game.wav")
 
 while continuer:
 
